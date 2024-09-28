@@ -33,6 +33,7 @@ $('.modal').modal();
 	var aadhaar_list = {
 		"300000000000" : "Akola",
 		"738253790005" : "Bhandara"
+		"121212121212" :"nsk"
 	}
 
 	var aadhaar = readCookie('aadhaar');
